@@ -43,8 +43,7 @@ An initial call starts an autonomous conversation with the model, leading it to 
  </div>  
 
 ## Implementation
-
-`ROG.py` contains a possible implementation of ROG using the OpenAI API. You will need an OpenAI API key to run the code. 
+[`ROG.py`](https://github.com/mo-haggag/ROG/blob/main/ROG.py) contains a possible implementation of ROG using the OpenAI API. You will need an OpenAI API key to run the code. 
 
 The code includes functions for both streaming and non-streaming modes. To showcase the implementation, we provide a simple example of generating a lengthy response from an initial prompt, while restricting the output max tokens per call to just 100 tokens.
 
