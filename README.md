@@ -38,9 +38,9 @@ An initial call starts an autonomous conversation with the model, leading it to 
    - Finalize the accumulated response.
    - Clean up the stop sequence markers.
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/43c12aef-71f0-4274-a35b-755679513780" alt="ROG">
-</div>
+ <div align="center">                                                                                                                                                                         
+   <img src="https://github.com/user-attachments/assets/3a990cf7-0d99-47f0-9341-2c1f7cba2fdc" alt="ROG">                                                                                      
+ </div>  
 
 ## Implementation
 
